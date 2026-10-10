@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\8th\bin\Debug\net10.0-windows\8th.exe
+C:\Users\Admin\Desktop\8th\bin\Debug\net10.0-windows\8th.deps.json
+C:\Users\Admin\Desktop\8th\bin\Debug\net10.0-windows\8th.runtimeconfig.json
+C:\Users\Admin\Desktop\8th\bin\Debug\net10.0-windows\8th.dll
+C:\Users\Admin\Desktop\8th\bin\Debug\net10.0-windows\8th.pdb
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.AssemblyInfo.cs
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.dll
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\refint\8th.dll
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.pdb
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\8th.genruntimeconfig.cache
+C:\Users\Admin\Desktop\8th\obj\Debug\net10.0-windows\ref\8th.dll
